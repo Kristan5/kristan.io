@@ -1,13 +1,13 @@
-# :flag-tr: Istanbul Itinerary · June 7–12, 2026
+# Istanbul Itinerary · June 7–12, 2026
 
 **Trip:** Zainab & Aneal's wedding (Sait Halim Paşa Yalısı, Yeniköy)
 **Hotels:** Mula Hotel, Sultanahmet (Jun 7–8) → Hilton Istanbul Maslak (Jun 9–11)
 
-## :airplane: Flights (Air Transat)
+## Flights (Air Transat)
 - **Outbound TS 214:** Sat Jun 6, 21:00 YYZ (Terminal 3) → **Sun Jun 7, 13:55 IST** (non-stop)
 - **Inbound TS 215:** **Fri Jun 12, 15:45 IST** → 19:45 YYZ (Terminal 3, non-stop)
 
-## :tada: Wedding events
+## Wedding events
 - **Jun 10 — Wedding** @ Sait Halim Paşa Yalısı, Yeniköy, Köybaşı Cd. No:83, 34464 Sarıyer
   - Ceremony **5:00 PM** → Cocktail 6:00 → Reception 7:00 → Dinner 8:30 → Dancing 9:30
   - Dress: **Formal. NO white, NO green.** Use the couple's palette.
@@ -50,14 +50,14 @@
 - **18:30** Tram T1 → Sultanahmet; collect luggage from Mula.
 - **19:30** Taxi/Uber → Hilton Istanbul Maslak (~40–50 min). Check in; dinner near hotel.
 
-## Day 4 — Wed, Jun 10 · Hilton Maslak · WEDDING DAY :tada:
+## Day 4 — Wed, Jun 10 · Hilton Maslak · WEDDING DAY 
 - **Morning:** relax — breakfast, pool/spa, light lunch. (Long night ahead.)
 - *Optional light outing (back by ~2:00):* coffee in Emirgan / Emirgan Park (~10 min away).
 - **15:00** Start getting ready. **Formal — no white or green.**
 - **16:15** Taxi/Uber to Sait Halim Paşa Yalısı, Yeniköy (~15–25 min; coastal Köybaşı Cd. can jam). **No need to leave at 3:30 — venue is near your hotel.**
 - **17:00** Ceremony → cocktail 6 → reception 7 → dinner 8:30 → dancing 9:30. Taxi back to Maslak after.
 
-## Day 5 — Thu, Jun 11 · Hilton Maslak · City sightseeing → Paiwazi boat :speedboat:
+## Day 5 — Thu, Jun 11 · Hilton Maslak · City sightseeing → Paiwazi boat
 - **10:30** M2 from İTÜ–Ayazağa → Taksim → funicular to Kabataş, or taxi (~25–30 min) to Dolmabahçe.
 - **11:00** Dolmabahçe Palace (open Thu; ~2 hrs). *Ticket onsite or muze.gov.tr.*
 - **13:30** Lunch in Beşiktaş, then Ortaköy waterfront (mosque + famous kumpir/waffles).
@@ -75,7 +75,7 @@
 
 ---
 
-## :admission_tickets: Tickets to buy online in advance
+## Tickets to buy online in advance
 > :warning: Use the **official sites below**. Most top Google results (hagiasophia.com, topkapipalace.org, dolmabahce-palace.com, etc.) are third-party resellers that charge markups.
 
 | Site | Day | Official ticket link | Notes |
@@ -87,11 +87,11 @@
 | Blue Mosque, Süleymaniye, Rüstem Pasha, Ortaköy | — | — | Free (mosque dress code) |
 | Galata Tower (if swapped in) | — | https://muze.gov.tr | Paid; verify it's reopened after restoration |
 
-## :sparkles: Optional add-ons (if a slot opens)
+## Optional add-ons (if a slot opens)
 - Chora Mosque (Kariye) — world-class Byzantine mosaics, quiet.
 - Balat & Fener — rainbow streets, antiques, cafés (pairs with Chora).
 - Whirling Dervish (Sema) ceremony — unique evening show.
 
-## :question: Open items
+## Open items
 - Confirm "Kaptan Boran" dock (neighborhood/pier) for exact transit from Dolmabahçe/Ortaköy on Jun 11.
 - Verify Galata Tower is reopened if you want to add it.
